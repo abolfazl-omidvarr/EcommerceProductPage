@@ -57,7 +57,7 @@ addCartButt.addEventListener('click', function () {
   );
   cartApprove.innerHTML = ``;
   cartApprove.innerHTML = `
-	<img src="images/image-product-1.jpg" alt="" width="50px" />
+	<img src="assets/images/image-product-1.jpg" alt="" width="50px" />
 	<div class="cart-item">
 	  <span class="fs12"
 		>Fall Limited Edition Sneakers <br />
